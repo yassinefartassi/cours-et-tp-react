@@ -1,0 +1,34 @@
+{
+  "cours": [
+    {
+      "id": "1",
+      "intitule": "react",
+      "note": 18
+    },
+    {
+      "id": "2",
+      "intitule": "view",
+      "note": 14
+    },
+    {
+      "id": "3",
+      "intitule": "javaScript",
+      "note": 13
+    },
+    {
+      "id": "e7e9",
+      "note": "16",
+      "intitule": "TypeScript"
+    },
+    {
+      "id": "24bd",
+      "note": "2",
+      "intitule": "C++"
+    },
+    {
+      "id": "4ac9",
+      "note": 19,
+      "intitule": "json"
+    }
+  ]
+}
